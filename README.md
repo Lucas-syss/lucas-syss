@@ -4,6 +4,7 @@
 🔧 Tech Stack:
 
 Frontend: HTML, CSS, JavaScript.
+
 Version Control: Git, GitHub.
 
 🚀 Goals:
